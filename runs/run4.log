@@ -1,0 +1,31 @@
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+[feedwatch] fetch turn: tool_calls=1 llm_calls=6 text='feedwatch: 2'
+# 2 new item(s) across 1 feed(s)
+
+_FeedWatch digest — 2026-11-15 20:30 UTC_
+
+The latest releases and news items include OpenMinion 0.1.17rc1 and 0.1.16.
+
+## Highlights
+
+### v0.1.17rc1
+- Source: openminion-releases · Category: other
+- Link: https://github.com/openminion/openminion/releases/tag/v0.1.17rc1
+- Published: 2026-11-02T03:49:13Z
+- Summary: OpenMinion 0.1.17rc1
+
+### 0.1.16
+- Source: openminion-releases · Category: other
+- Link: https://github.com/openminion/openminion/releases/tag/v0.1.16
+- Published: 2026-10-30T07:17:48Z
+- Summary: OpenMinion 0.1.16 improves memory-policy enforcement, runtime cleanup, storage migrations, and room coordination. Highlights: authorize automatic turn memory capture before extraction or writes keep d
+
+## All new items (2)
+
+- [openminion-releases] v0.1.17rc1 — https://github.com/openminion/openminion/releases/tag/v0.1.17rc1
+- [openminion-releases] 0.1.16 — https://github.com/openminion/openminion/releases/tag/v0.1.16
+
+[feedwatch] digest written to digests/digest-20261115T203059Z.md
+[feedwatch] session=feedwatch-20261115T201245Z thread=feedwatch-20261115T201245Z:4df607a61cc54ee494734e3dbe0c9a08 run_state=completed
+[feedwatch] stats={"input_tokens": 5272, "output_tokens": 199, "cache_read_tokens": 0, "llm_calls": 2, "tool_calls": 0, "tool_errors": 0, "duration_ms": 451297}

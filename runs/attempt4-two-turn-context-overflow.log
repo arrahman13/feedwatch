@@ -1,0 +1,10 @@
+=== RUN 1 (two-turn): 2026-11-15T18:14:33Z ===
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+2026-11-15 18:15:11,751 WARNING openminion.agent.feedwatch: brain runtime config unavailable for bridge runner options: 1 validation error for BrainConfig
+plan_auto_scale_max_elapsed_ms
+  Extra inputs are not permitted [type=extra_forbidden, input_value=900000, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.14/v/extra_forbidden
+[feedwatch] fetch turn: tool_calls=1 llm_calls=6 text='feedwatch: Stopped: turn time limit reached (300s/300s). Continue in a new turn to resume, or narrow the scope.'
+error: provider failed: PROVIDER_ERROR: The configured model provider failed before it could return a decision (ollama request failed with HTTP 400: request (5249 tokens) exceeds the available context size (4096 tokens), try increasing it). Please retry or switch models.
+exit=1

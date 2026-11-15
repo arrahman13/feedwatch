@@ -1,0 +1,19 @@
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+[feedwatch] fetch turn: tool_calls=1 llm_calls=5 text='feedwatch: Stopped: turn time limit reached (300s/300s). Continue in a new turn to resume, or narrow the scope.'
+# Nothing new since the last run
+
+_FeedWatch digest — 2026-11-15 19:27 UTC_
+
+No new feed items were collected for this session.
+
+## All new items (4)
+
+- [openminion-releases] 0.1.22 — https://github.com/openminion/openminion/releases/tag/v0.1.22
+- [openminion-releases] 0.1.21 — https://github.com/openminion/openminion/releases/tag/v0.1.21
+- [openminion-releases] 0.1.20 — https://github.com/openminion/openminion/releases/tag/v0.1.20
+- [openminion-releases] 0.1.19 — https://github.com/openminion/openminion/releases/tag/v0.1.19
+
+[feedwatch] digest written to digests/digest-20261115T192736Z.md
+[feedwatch] session=feedwatch-20261115T190820Z thread=feedwatch-20261115T190820Z:7f42a7b27a30414aaeeaaf3da0a81a66 run_state=completed
+[feedwatch] stats={"input_tokens": 5821, "output_tokens": 65, "cache_read_tokens": 0, "llm_calls": 2, "tool_calls": 0, "tool_errors": 0, "duration_ms": 417403}

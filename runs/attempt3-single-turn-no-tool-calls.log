@@ -1,0 +1,16 @@
+=== RUN 1: 2026-11-15T17:51:27Z ===
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+# Nothing new since the last run
+
+_FeedWatch digest — 2026-11-15 17:56 UTC_
+
+No updates found for the specified feeds.
+
+## All new items (0)
+
+
+[feedwatch] digest written to digests/digest-20261115T175635Z.md
+[feedwatch] session=feedwatch-main thread=feedwatch-main:c5b9f28e527648e18f721faf398198b5 run_state=completed
+[feedwatch] stats={"input_tokens": 4773, "output_tokens": 72, "cache_read_tokens": 0, "llm_calls": 3, "tool_calls": 0, "tool_errors": 0, "duration_ms": 280514}
+exit=0

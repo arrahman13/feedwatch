@@ -1,0 +1,5 @@
+=== RUN 1 (two-turn, fixed config, 16k ctx): 2026-11-15T18:24:58Z ===
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+error: provider failed: TIMEOUT: The configured model provider timed out before it could return a decision (ollama request timed out: timed out). Please retry.
+exit=1

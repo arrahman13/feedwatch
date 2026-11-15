@@ -1,0 +1,4 @@
+=== RUN 1 (fresh session per run): 2026-11-15T18:35:58Z ===
+[feedwatch] note: unbracketed IPv6 entries in no_proxy for httpx compatibility
+[feedwatch] note: unbracketed IPv6 entries in NO_PROXY for httpx compatibility
+[feedwatch] fetch turn: tool_calls=2 llm_calls=5 text='feedwatch: Stopped: turn time limit reached (300s/300s). Continue in a new turn to resume, or narrow the scope.'
