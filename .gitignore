@@ -1,0 +1,6 @@
+.venv/
+.openminion/
+.feedwatch/
+digests/
+__pycache__/
+*.pyc
